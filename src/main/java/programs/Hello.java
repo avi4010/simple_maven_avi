@@ -10,5 +10,9 @@ public class Hello
     {
         System.out.println( "Hello World!" );
         System.out.println("New line is added to check jenkins trigger");
+        
+        while(true) {
+        	
+        }
     }
 }

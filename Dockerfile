@@ -17,4 +17,4 @@ ADD src /simple_maven_avi/src
 RUN ["mvn", "package"]
 
 EXPOSE 4567
-CMD ["java", "-jar", "target/blume-jar-with-dependencies.jar"]
+CMD ["java", "-jar", "target/simple_maven_avi-0.0.1-SNAPSHOT.jar"]
