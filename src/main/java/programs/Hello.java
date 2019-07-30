@@ -10,6 +10,7 @@ public class Hello
     {
         System.out.println( "Hello World!" );
         System.out.println("New line is added to check jenkins trigger");
+        System.out.println("Second line is added");
         
         while(true) {
         	
